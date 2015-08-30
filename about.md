@@ -3,6 +3,7 @@ layout: page
 title: About
 ---
 
+![At the Cowboys AT&T Stadium](/assets/blog_pic.jpg)
 
 Hey there! I'm a graduate student in computer science living in Dallas.
 
