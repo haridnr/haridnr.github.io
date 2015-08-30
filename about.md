@@ -12,8 +12,6 @@ Professional Experience
 -----------------------
 
 * [SapientNitro](http://www.sapientnitro.com/en-us.html) - Software Development Engineer (Nov 2011 - July 2015)
-* DARE DRDO - Software Intern (May 2010 - July 2010)
-
 
 Education
 ---------
@@ -24,6 +22,6 @@ Education
 Social
 ------
 
-* Linkedin (https://www.linkedin.com/in/haridnr)
-* Facebook (https://www.facebook.com/haridnr)
+* [Linkedin](https://www.linkedin.com/in/haridnr)
+* [Facebook](https://www.facebook.com/haridnr)
 
