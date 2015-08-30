@@ -5,9 +5,13 @@ title: About
 
 ![At the Cowboys AT&T Stadium](/assets/blog_pic.jpg)
 
-Hey there! I'm a graduate student in computer science living in Dallas.
+Hey there! I'm Hari from Bangalore, India and currently a graduate student in computer science living in Dallas.
 
-Interested in the systems area ( distributed systems, concurrent programming )
+My aim is to learn programming the way Peter Norvig describes in his [article](http://norvig.com/21-days.html).
+
+My graduate coursework is in the systems area ( distributed systems, concurrent programming, computer architecture etc )
+
+I was a software engineer for around 3 years building content management systems in the Java domain.
 
 Professional Experience
 -----------------------
@@ -26,3 +30,8 @@ Social
 * [Linkedin](https://www.linkedin.com/in/haridnr)
 * [Facebook](https://www.facebook.com/haridnr)
 
+Others
+------
+
+* Beginner in competitive programming on [HackerRank](https://www.hackerrank.com/haridnr)
+* I'm also a cycling enthusiast
