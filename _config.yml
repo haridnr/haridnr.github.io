@@ -34,3 +34,7 @@ github:
 pages_list:       
   About: '/about/'
   Projects: '/projects/'
+
+collections:
+  projects:
+    output: true
