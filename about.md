@@ -16,7 +16,7 @@ I was a software engineer for around 3 years building content management systems
 Professional Experience
 -----------------------
 
-* [SapientNitro](http://www.sapientnitro.com/en-us.html) - Software Development Engineer (Nov 2011 - July 2015)
+* [SapientNitro](http://www.sapientnitro.com/en-us.html) - Software Development Engineer (Nov 2011 - July 2014)
 
 Education
 ---------
