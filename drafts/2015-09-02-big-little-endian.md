@@ -19,7 +19,7 @@ In Hexadecimal form -
 
 The following program prints how the bytes are stored for the integer 255 on a particular system
 
-{% gist ce08525b0688092dd52b %}
+{% gist haridnr/ce08525b0688092dd52b %}
 
 If you are running a little endian machine the output will be ff 0 0 0. This is because the bits are stored in the reverse order. Little endian as in the least signification byte which in this case 'ff' is stored in the most significant byte position.
 
